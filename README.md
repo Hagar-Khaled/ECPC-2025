@@ -1,6 +1,7 @@
 # 🏆 ECPC 2025 – Solutions 
 
 This repository contains **detailed solutions** for **ECPC 2025** problems.
+These are **not the official solutions** — they are my personal approaches to solving the problems.
 
 My goal is to help competitive programmers **understand problem-solving techniques** and **improve their performance** in algorithmic contests.
 
@@ -15,6 +16,7 @@ Each folder represents a day and contains:
 
 ## ⚠️ Disclaimer
 This repository is intended for **educational purposes only**.  
+The solutions provided here are **my own work** and **not the official ECPC solutions**.  
 Problems from **ECPC 2025** will only be uploaded **after the official contest ends**, in compliance with competition rules.
 
 ---
