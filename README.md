@@ -7,7 +7,7 @@ My goal is to help competitive programmers **understand problem-solving techniqu
 ---
 
 ## 📂 Structure
-Each folder represenys a day and contains:
+Each folder represents a day and contains:
 - **PDF** for Problem statements
 - **Solution code** for each problem
 
